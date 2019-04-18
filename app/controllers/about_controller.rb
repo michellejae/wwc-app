@@ -1,5 +1,5 @@
-class AboutController < ApplicationController
-end
+# class AboutController < ApplicationController
+# end
 
 
 class AboutController < ApplicationController
